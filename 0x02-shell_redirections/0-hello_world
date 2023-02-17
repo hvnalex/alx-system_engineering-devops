@@ -1,2 +1,5 @@
 #!/bin/bash
+#My first script
+echo "Hello, World"
+chmod 755 0-hello_world
 Hello,World
